@@ -1,0 +1,59 @@
+[
+    {"Nombre":"Ramiro Castillo",
+     "Correo electronico":"Ramiro43@Castillo.com",
+     "Telefono":"2615832758"
+    },
+    
+    {"Nombre":"Maria Sosa",
+     "Correo electronico":"Maria.Sosa@gmail.com",
+     "Telefono":"261768215"
+    },
+
+    {"Nombre":"Juan Perez",
+     "Correo electronico":"Juan.perez@gmail.com",
+     "Telefono":"1154237890"
+    
+    },
+
+    {"Nombre": "María González",
+     "Correo electronico":"maria.gonzalez@gmail.com",
+     "Telefono":"1165782345"
+    },
+
+    
+    {"Nombre": "Camila Torres",
+     "Correo electronico":"Camila_Torres@gmail.com",
+     "Telefono":"1134567890"
+    
+    },
+
+    {"Nombre":"Diego Ramirez",
+     "Correo electronico": "diego.ramirez@gmail.com",
+     "Telefono":"26176543210"
+    
+    },
+
+    {"Nombre":"Cecilia Campo",
+     "Correo electronico":"cecilia.campo@gmail.com",
+     "Telefono":"2614572900"
+    
+    },
+
+    {"Nombre":"Daniel Medina",
+     "Correo electronico":"Daniel.Medina@gmail.com",
+     "Telefono":"261369255"
+    
+    },
+
+    {"Nombre":"Monica Lacombe",
+     "Correo electronico":"Monica.23Lacombe@gmail.com",
+     "Telefono":"261569782"
+    
+    },
+
+    {"Nombre":"Mateo Castro",
+     "Correo electronico":"mcastro99@gmail.com",
+     "Telefono":"26177889900"}
+    ]
+
+
