@@ -1,0 +1,50 @@
+[
+ {"Nombre del Producto":"Schweppes Citrus 1.5L",
+  "Precio":"2.00",
+  "Stock":"25"
+},
+
+{"Nombre del Producto":"Crush Naranja 2.25L",
+ "Precio":"2.10",
+ "Stock":"40"
+},
+
+{"Nombre del Producto":"Paso de los Toros Pomelo 1.5L",
+ "Precio":"1.80",
+ "Stock":"35"
+},
+
+{"Nombre del Producto":"Manaos Cola 2.25L",
+ "Precio":"1.20",
+ "Stock":"70"
+},
+
+{"Nombre del Producto":"Coca Cola Zero 2.25L",
+ "Precio":"2.50",
+ "Stock":"30"
+},
+
+{"Nombre del Producto":"7Up 2.25L",
+ "Precio":"2.35",
+ "Stock":"40"
+},
+
+{"Nombre del Producto":"Sprite 2.25L",
+ "Precio":"2.40",
+ "Stock":"50"
+},
+
+{"Nombre del Producto":"Fanta Naranja 2.25L",
+  "Precio":"2.40",
+  "Stock":"45"
+},
+
+{"Nombre del Producto":"Pepsi 2.25L",
+ "Precio":"2.30",
+ "Stock":"50"
+},
+
+{"Nombre del Producto":"Coca-Cola 2.25L",
+ "Precio":"2.50",
+ "Stock":"60"}
+]
